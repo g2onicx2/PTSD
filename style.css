@@ -103,4 +103,7 @@ header div {
 	header div a {
 		font-size: 40px;
 	}
+	.background-image {
+		background-position: 50%;
+	}
 }
